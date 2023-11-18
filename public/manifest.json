@@ -1,0 +1,17 @@
+{
+  "short_name": "React App",
+  "name": "Task Supply",
+  "description": "A simple place where you can add your todos and tasks and modify them with ease",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  },
+  "permissions": ["activeTab"]
+}
